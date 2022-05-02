@@ -1,7 +1,9 @@
-1. Introduction
+Framework : Cypress, JavaScript
 
+1. Introduction
+ 
   Trello is an online tool for managing projects and personal tasks.
-  The purpose of this test cases is to test and validate the functionality of the Trello’s features.
+  The purpose of this E2E tests is to test and validate the functionality of the Trello’s features like create new board and new list.
 
 2. Software requirement:
     
